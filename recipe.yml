@@ -1,9 +1,10 @@
-name: 'EC AI Base'
+name: 'EC Alt Tags'
 description: 'Installs and configures base requirements for AI integration'
 type: 'Site'
 
 install:
   # AI base modules
+  - ai
   - ai_image_alt_text
 config:
   import:
