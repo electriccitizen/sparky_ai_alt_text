@@ -1,11 +1,7 @@
 {
     "name": "electriccitizen/sparky_ai_alt_tags",
-    "authors": [
-        {
-            "name": "Tim Broeker",
-            "role": "Maintainer"
-        }
-    ],
+    "description": "Install and configure base requirements for AI alt tags.",
+    "type": "drupal-recipe",    
     "require": {
         "drupal/ai_image_alt_text": "^1"
     }
