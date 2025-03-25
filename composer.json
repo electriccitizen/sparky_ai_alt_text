@@ -1,0 +1,12 @@
+{
+    "name": "electriccitizen/sparky_ai_alt_tags",
+    "authors": [
+        {
+            "name": "Tim Broeker",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/ai_image_alt_text": "^1",
+    }
+}
