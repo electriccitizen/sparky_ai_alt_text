@@ -3,6 +3,7 @@ description: 'Install and configure base requirements for AI alt tags integratio
 type: 'Site'
 
 install:
+  - ai
   - ai_image_alt_text
 config:
   import:
