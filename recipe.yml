@@ -8,3 +8,9 @@ install:
 config:
   import:
     ai_image_alt_text: '*'
+  actions:
+    ai_image_alt_text.settings:
+      simple_config_update:
+        autogenerate: true
+
+
