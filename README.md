@@ -4,8 +4,11 @@ This is a very simple recipe that setups up AI generated alt tags using the Spar
 
 Assuming your providers are set up correctly, applying this recipe should be installed and working with the following settings:
 
-* Alt text is auto-generated on upload
-* Bulk update module is enabled (to generate all)
+## What it does
+
+* Installs the ai_image_alt_text modules
+* Configures auto-generation on upload
+* Bulk update module is enabled (to generate missing alt text)
 
 ## Configuration requirements
 
