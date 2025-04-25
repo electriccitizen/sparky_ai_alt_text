@@ -1,4 +1,4 @@
-# Sparky AI (Image Alt Tags)
+# Sparky AI (Image Alt Text)
 
 This is a very simple recipe that setups up AI generated alt tags using the [Sparky AI](https://github.com/electriccitizen/sparky_ai) base module. 
 
